@@ -27,7 +27,7 @@
 	],
 	"dependencies": {
 		"execa": "^4.0.0",
-		"@telking/gifsicle": "^5.0.0-telking",
+		"@telking/gifsicle": "^5.0.0",
 		"is-gif": "^3.0.0"
 	},
 	"devDependencies": {
