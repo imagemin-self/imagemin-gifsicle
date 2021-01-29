@@ -1,5 +1,5 @@
 {
-	"name": "@telking/gifsicle",
+	"name": "@telking/imagemin-gifsicle",
 	"version": "7.0.0",
 	"description": "Imagemin plugin for Gifsicle",
 	"license": "MIT",
